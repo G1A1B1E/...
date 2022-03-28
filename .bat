@@ -1,1 +1,3 @@
-(1)
+@ECHO
+start:
+goto start
